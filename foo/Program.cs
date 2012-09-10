@@ -10,6 +10,7 @@ namespace foo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Food is good!");
         }
     }
 }
